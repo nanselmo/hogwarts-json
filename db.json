@@ -1,0 +1,7 @@
+{
+"students":[
+  {"firstName":"Harry", "lastName":"Potter"}, 
+  {"firstName":"Hermione", "lastName":"Grainger"},
+  {"firstName":"Ron", "lastName":"Weasley"}
+]
+}
