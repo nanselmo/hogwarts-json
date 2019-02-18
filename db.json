@@ -1,15 +1,16 @@
 {
-"students" : [
-  {"firstName":"Harry", "lastName":"Potter", "house":"Gryffindor"}, 
-  {"firstName":"Hermione", "lastName":"Grainger", "house":"Gryffindor"},
-  {"firstName":"Ron", "lastName":"Weasley", "house":"Gryffindor"}
-],
-"houses" : [
-  {"name":"Gryffindor", "mascot":"Lion", "color1":"scarlet", "color2":"gold", "notableAlumni":["Albus Dumbledore"]},
-  {"name":"Hufflepuff", "mascot":"Badger", "color1":"canary yellow", "color2":"black", "notableAlumni":["Newt Scamander", "Bridget Wenlock"] }
-],
-"classes" : [
-  {"subject":"Transfiguration", "currentProfessor":"Minerva McGonagall"},
-  {"subject":"Potions", "currentProfessor":"Severus Snape"},
-  {"subject":"Charms", "currentProfessor":"Filius Flitwick"}
+  "students" : [
+    {"firstName":"Harry", "lastName":"Potter", "house":"Gryffindor"}, 
+    {"firstName":"Hermione", "lastName":"Grainger", "house":"Gryffindor"},
+    {"firstName":"Ron", "lastName":"Weasley", "house":"Gryffindor"}
+  ],
+  "houses" : [
+    {"name":"Gryffindor", "mascot":"Lion", "color1":"scarlet", "color2":"gold", "notableAlumni":["Albus Dumbledore"]},
+    {"name":"Hufflepuff", "mascot":"Badger", "color1":"canary yellow", "color2":"black", "notableAlumni":["Newt Scamander", "Bridget Wenlock"] }
+  ],
+  "classes" : [
+    {"subject":"Transfiguration", "currentProfessor":"Minerva McGonagall"},
+    {"subject":"Potions", "currentProfessor":"Severus Snape"},
+    {"subject":"Charms", "currentProfessor":"Filius Flitwick"}
+  ]
 }
